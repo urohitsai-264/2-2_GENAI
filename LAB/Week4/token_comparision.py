@@ -12,7 +12,6 @@ TEXTS = {
     "Hindi": "कृत्रिम बुद्धिमत्ता दुनिया को बदल रही है।"
 }
 
-
 def load_tokenizers():
     loaded = {}
     for display_name, model_name in TOKENIZERS.items():
