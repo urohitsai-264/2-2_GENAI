@@ -1,0 +1,16 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+What is the capital of India,1.0,1,30,'?',-68.272,-68.272,46.25
+What is the capital of India,1.0,2,1701,"'?""'",-69.7403,-69.7403,10.65
+What is the capital of India,1.0,3,11,"','",-69.8651,-69.8651,9.4
+What is the capital of India,1.0,4,290,' and',-70.3118,-70.3118,6.01
+What is the capital of India,1.0,5,338,"""'s""",-71.1767,-71.1767,2.53
+What is teh capital of india is,1.0,1,262,' the',-97.1072,-97.1072,5.12
+What is teh capital of india is,1.0,2,326,' that',-97.228,-97.228,4.53
+What is teh capital of india is,1.0,3,12820,' Rs',-97.9606,-97.9606,2.18
+What is teh capital of india is,1.0,4,407,' not',-97.9976,-97.9976,2.1
+What is teh capital of india is,1.0,5,257,' a',-98.0714,-98.0714,1.95
+The capital of india is new,0.2,1,12517,' Delhi',-83.8164,-419.0822,91.61
+The capital of india is new,0.2,2,284,' to',-84.3776,-421.8882,5.54
+The capital of india is new,0.2,3,3139,' capital',-84.6854,-423.4272,1.19
+The capital of india is new,0.2,4,11,"','",-84.7343,-423.6713,0.93
+The capital of india is new,0.2,5,290,' and',-84.8882,-424.441,0.43
